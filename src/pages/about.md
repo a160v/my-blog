@@ -1,44 +1,65 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About Me"
+title: About Me
 ---
+# My Story: A Wildcard's Journey
 
-You know that person on the team who seems to just... _handle_ things? The one who volunteers to jump head-first into a problem nobody else has experience with, just to get it solved?
+Let me tell you my story. It's not linear, and it doesn't fit into a single job title. But it makes perfect sense once you understand what drives me: diving headfirst into complex problems at the intersection of technology, policy, and international coordination.
 
-Hi, I'm **Aleks**. And I'm a **Wildcard**.
+## The Foundation
 
-Technically, my CVs say things like "EU Public Policy Analyst", "IT Project Manager", or "Software Consultant". But if you look closer, you’ll see the pattern of a "WTF Officer" (cit.) in the making. I thrive in the chaos of the unknown, bridging the gap between rigid policy frameworks and the fast-paced world of digital transformation.
+I started at **Sciences Po Paris**, obtaining a Bachelor of Arts in Social Sciences and Humanities on the **Dijon campus** (2014-2017) focusing on **Central and Eastern European Studies**. The curriculum gave me a solid grounding in law, economics, history, political science, and sociology: learning to look at problems from a multidisciplinary angle.
 
-## The "Jack of All Trades" Origin Story
+In my third year, while classmates headed to London or Brussels, I went to **Nanjing University in China** to study Modern Chinese Culture and language, even volunteering as an English teacher with AIESEC. This was a real cultural shock, but in a positive way.
 
-My journey isn't a straight line—it’s a web of connections. I started in **International Public Management** at **Sciences Po Paris**, diving deep into the complexities of public policy and international relations. But understanding the _theory_ of how the world works wasn't enough; I wanted to build the tools that shape it.
+I continued at **Sciences Po Paris** for my **Master of Arts in International Public Management** (2017-2019), gaining deep knowledge of policy issues across international, national, and local levels, and learning to design, implement, and analyse policies from diverse expert perspectives. I served as **Event Manager at Young European Federalists (JEF)**, already blending policy advocacy with practical organisation.
 
-So, naturally, I did what any policy wonk would do: I joined a **Coding Bootcamp** in Zurich.
+## The Entrepreneurial Detour
 
-Now, I speak five languages (English, French, Italian, Albanian, and Macedonian) and can write code in a few more (Ruby, JavaScript, Python). I don't just translate languages; I translate _concepts_—turning complex regulatory requirements into actionable code, and explaining technical limitations to policy-makers without making their eyes glaze over.
+After my master's, I faced a challenge: I wasn't an EU citizen yet, so breaking into Brussels wasn't straightforward. Instead, I pursued digital entrepreneurship, enrolling in the **_Diplôme Universitaire Étudiant Entrepreneur_ at Université Sorbonne Paris Nord** (2019-2020) while working at **Fempo**, a fashion e-commerce startup in Paris, as **IT Project Coordinator**. I deployed their **Odoo ERP system**, managing everything from defining business processes to training users.
 
-## Solving Problems, One "WTF" at a Time
+By late 2019, I moved to Berlin to found my own startup. But plans change—when things didn't materialise as expected, I adapted quickly and joined **Gorillas Technologies GmbH** in December 2020.
 
-My career has been defined by jumping into the deep end:
+## Berlin: Thriving in Chaos
 
-- **At Gorillas Technologies:** I didn't just "manage operations." I helped orchestrate an international expansion across EU and non-EU markets. From mapping process requirements to creating the "instruction manual" for our national teams, I was the person making sure the chaos of hyper-growth didn't break us.
+At **Gorillas**, I started as **IT Project Coordinator**, managing the deployment of an **Odoo ERP system** across twenty-plus dark stores in three countries. I coordinated two external agencies, managed an eighty-thousand-euro budget, and kept 120 users aligned across technical and business teams.
 
-- **At Imperium Code:** I worked as a **Software Consultant**, but my role was really "Translator-in-Chief." I supported the implementation of Article 40 of the **Digital Services Act**, helping academic researchers scrutinize platform governance. It was the perfect storm of my skills: highly regulated environments, complex tech stacks, and a need for clear, structured communication.
+By April 2021, I became **Product Operations Manager**—my element. The company was expanding internationally at breakneck speed, and I became the person who made it work. I conducted twenty-five interviews to map global supply chain processes, standardised operations, and coordinated product rollouts across **multiple EU and non-EU countries** (UK, US).
 
-## Why Hire a Wildcard?
+My key achievement? Streamlining infrastructure development for country launches, **reducing time from eight weeks to four weeks**—a fifty percent improvement. I constantly travelled to support launches, coordinated between headquarters directors, regional teams, and product developers, and maintained monthly on-call activity with DevOps.
 
-I’m not a specialized tool you use for one specific task. I’m the person you call when you have a problem that doesn't fit a job description.
+This taught me something fundamental: **I thrive in chaos**. I'm at my best coordinating multiple stakeholders across countries and functions, translating complex requirements into clear guidance, solving problems without precedent.
 
-- **Need to make sense of a new EU digital policy?** I’m on it.
-- **Need to operationalize that policy into a software project plan?** Done.
-- **Need someone to coordinate diverse stakeholders who speak different languages (literally and professionally)?** That’s my Tuesday.
+I briefly worked at **Arive GmbH** (April-September 2022) as **Product Manager**, even designing a mobile-first web app in digital healthcare while coordinating a team of five and managing KPIs for senior leadership.
 
-I don't produce masterpieces on the first try, but I produce _solutions_. I fill the gaps, fight the fires, and connect the dots until the path forward is clear.
+## Becoming Bilingual in Policy and Code
 
-## Let's Connect
+By 2023, I wanted to understand technology from a developer's perspective. So I enrolled in a **nine-week full-time intensive coding bootcamp at Le Wagon in Zurich**, learning HTML, CSS, JavaScript ES6, SQL, Ruby on Rails, and modern web development. This wasn't career change—it was becoming truly bilingual in policy and technology.
 
-Currently, I'm analyzing the digital transformation of public administration for my Master's thesis at the **College of Europe**. But I'm always looking for the next "impossible" problem to solve.
+This knowledge immediately paid off at **Imperium Code** (February 2023-August 2024), where I worked as **Software Consultant, covering both project management and software development.** I supported international, multi-stakeholder projects in highly regulated digital environments, translating regulatory requirements into technical solutions, coordinating across technical and non-technical teams, and managing everything from feasibility assessment to deployment.
 
-If you need a Wildcard on your team, let's talk.
+The standout project? Contributing to research on **Article 40 of the Digital Services Act**, supporting data access for academic scrutiny of platform governance through the **Meta Content Library and API** on behalf of a partner American university. This required understanding EU digital regulation, working with platform APIs, coordinating between American and European institutions, and translating between regulatory language and technical specifications.
 
-[LinkedIn](https://www.linkedin.com/in/e-aleks/) | [Email](mailto:aleks.vangjelofski@coleurope.eu)
+## Coming Full Circle
+
+By 2024, I had an unusual combination: policy education from Sciences Po, entrepreneurship training, operational experience from Berlin startups, technical skills from coding, and deep exposure to EU digital regulation. Time to bring it together.
+
+I enrolled in the **Master of Arts in European Transformation and Integration at the College of Europe** in Tirana, Albania (September 2024-June 2025), focusing my thesis on **Digital Transformation of Public Administration in Albania**. This adds analytical depth and institutional knowledge to my practical experience, deepening my understanding of EU governance structures, legislative processes, and political dynamics shaping digital policy.
+
+## What I Bring
+
+I've built expertise in **EU governance and legislative processes**, particularly **EU digital policy**. I excel at **policy monitoring and analysis**, synthesising complex regulatory frameworks into clear insights. I'm skilled at **stakeholder coordination in multi-actor and multicultural environments**—whether coordinating nine-country rollouts, bridging technical and policy teams, or facilitating transatlantic institutional communication.
+
+Most importantly, I master **clear written communication**—translating technical and policy complexity into accessible language for diverse audiences, from warehouse workers to C-suite executives.
+
+I'm native in **Italian,** Albanian, and Macedonian, bilingual (C2) in **English and French**, fluent (B1) in **Spanish**, with working knowledge of German and Chinese (A2).
+
+## What This All Means
+
+I thrive at the intersection of **technology, policy, and international coordination**. I'm at my best with complex, ambiguous problems requiring simultaneous understanding of multiple domains—translating between technical teams and policy stakeholders, coordinating implementation across regulatory environments, turning abstract requirements into concrete solutions.
+
+When citizenship constraints blocked my original Brussels path, I found another route through entrepreneurship and technology. When startup plans didn't materialise, I pivoted immediately. Each detour added another dimension to my skill set.
+
+I'm not the world's leading expert in any single narrow domain. But I'm very good at a wide range of things, and exceptional at combining them to solve problems that don't fit neat categories. I get things done in uncertain, fast-changing environments where the rulebook is still being written.
+
+That's my story. It's not linear, doesn't fit one job title, and probably looks chaotic from outside. But from inside, it makes perfect sense. **I'm a wildcard, and being hard to categorise is my greatest strength.**
