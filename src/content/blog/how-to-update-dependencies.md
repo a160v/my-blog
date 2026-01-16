@@ -1,6 +1,7 @@
 ---
 author: Sat Naing
 title: How to update dependencies of AstroPaper
+pubDatetime: 2024-01-16T01:55:48Z
 ogImage: /assets/forrest-gump-quote.webp
 slug: how-to-update-dependencies
 featured: false

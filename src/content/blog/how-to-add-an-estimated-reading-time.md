@@ -1,6 +1,7 @@
 ---
 author: Sat Naing
 title: How to add an estimated reading time in AstroPaper
+pubDatetime: 2024-01-16T01:55:48Z
 slug: how-to-add-estimated-reading-time
 featured: false
 draft: true
